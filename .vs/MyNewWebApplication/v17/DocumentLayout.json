@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mss\\source\\repos\\MyNewWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE80B88-D14F-4783-B40D-8FFDEAC60208}|MyNewWebApplication\\MyNewWebApplication.csproj|c:\\users\\mss\\source\\repos\\mynewwebapplication\\mynewwebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FE80B88-D14F-4783-B40D-8FFDEAC60208}|MyNewWebApplication\\MyNewWebApplication.csproj|solutionrelative:mynewwebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FE80B88-D14F-4783-B40D-8FFDEAC60208}|MyNewWebApplication\\MyNewWebApplication.csproj|c:\\users\\mss\\source\\repos\\mynewwebapplication\\mynewwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FE80B88-D14F-4783-B40D-8FFDEAC60208}|MyNewWebApplication\\MyNewWebApplication.csproj|solutionrelative:mynewwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mss\\source\\repos\\MyNewWebApplication\\MyNewWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyNewWebApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mss\\source\\repos\\MyNewWebApplication\\MyNewWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyNewWebApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-01T14:46:27.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mss\\source\\repos\\MyNewWebApplication\\MyNewWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "MyNewWebApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Mss\\source\\repos\\MyNewWebApplication\\MyNewWebApplication\\Program.cs",
+              "RelativeToolTip": "MyNewWebApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T14:46:24.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
